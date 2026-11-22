@@ -1,5 +1,11 @@
 # pip install groq requests python-dotenv
 
+# create a .env file in this folder and add the following keys in it...
+# Create your own API keys from Google Cloud Console and Groq.ai and replace the values below...
+     
+ #  GROQ_API_KEY=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
+ #  GOOGLE_PLACES_API_KEY=AIzaSyCRh6g9J51TBfGRza1hv0hgEoxMPQCLjuE   
+
 # Import os to access environment variables
 import os
 
